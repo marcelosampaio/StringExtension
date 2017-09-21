@@ -26,12 +26,6 @@ class ViewController: UIViewController {
         }
         
         
-//        if isValidCpf("42820898147") {
-//            print("CPF OK")
-//        }else{
-//            print("CPF INVÁLIDO")
-//        }
-        
     }
 
     private func isValidCpf(_ input: String) -> Bool
